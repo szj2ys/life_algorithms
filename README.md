@@ -2,7 +2,7 @@
 Better thought, better life 🤣😊😘
 
 <p align="center">
-    <img width="80" src="https://gitee.com/szj2ys/Pictures/raw/master/logo/vegetables.svg"/>
+    <img width="80" src="https://gitee.com/szj2ys/Pictures/raw/master/logo/vegetables.png"/>
 </p>
 
 <h3 align="center">
