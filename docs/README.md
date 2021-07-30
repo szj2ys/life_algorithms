@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-    <p>投资实践</p>
+    <p>人生算法</p>
 </h3>
 
 <p align="center">
