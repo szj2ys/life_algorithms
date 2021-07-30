@@ -20,3 +20,7 @@
 
 
 
+## Acknowledgements
+- [芒格学院](https://www.madewill.com)
+- [史诗般总结——查理芒格的100个思维模型](https://www.madewill.com/thinking-model/100-mental-models.html)
+
